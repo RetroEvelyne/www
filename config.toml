@@ -6,6 +6,7 @@ theme = 'terminal'
 [params]
   themeColor = "pink"
   fullWidthTheme = true
+  centerTheme = true
 
 [languages]
   [languages.en]
