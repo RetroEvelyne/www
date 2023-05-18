@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'terminal'
 
+[params]
+  themeColor = "pink"
+  fullWidthTheme = true
+
 [languages]
   [languages.en]
     languageName = "English"
