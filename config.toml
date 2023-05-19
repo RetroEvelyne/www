@@ -1,12 +1,12 @@
 baseURL = 'http://retroevelyne.me/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'en-gb'
+title = "RetroEvelyne's Space"
 theme = 'terminal'
 
 [params]
-  themeColor = "pink"
-  fullWidthTheme = true
-  centerTheme = true
+    themeColor = "pink"
+    fullWidthTheme = true
+    centerTheme = true
 
 [languages]
   [languages.en]
@@ -39,3 +39,7 @@ theme = 'terminal'
         identifier = "articles"
         name = "Articles"
         url = "/articles"
+      [[languages.en.menu.main]]
+        identifier = "news"
+	name = "News"
+	url = "/news"
