@@ -43,3 +43,7 @@ theme = 'terminal'
         identifier = "news"
 	name = "News"
 	url = "/news"
+      [[languages.en.menu.main]]
+        identifier = "contact"
+	name = "Contact"
+	url = "/contact"
