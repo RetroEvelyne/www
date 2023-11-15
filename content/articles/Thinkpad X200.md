@@ -13,7 +13,7 @@ I should mention is that it did come pre-librebooted.
 # The battery
 I'll just give it to you straight, the battery life on my Thinkpad X200 is shit. Even with minimal
 usage, I still run through multiple charges a day. For many people, including me, this is an issue.
-Luckily in most of my lessons at College I have access to a socket that I can charge from whilst
+Luckily in most of my lessons at college I have access to a socket that I can charge from whilst
 working, this is a different case during independent study however, most of the time I'm having to
 keep a watchful eye on my battery life as to not run out of charge without having saved all my work.
 However, this is not a deal breaker for me. The Thinkpad X200 has a removable battery which means

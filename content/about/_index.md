@@ -30,3 +30,25 @@ Disclaimer: I am in no possible way a philosopher or a psychologist or a politic
 - **Technology**
 
 Come on be honest, would I have a personal website if I wasn't at least interested in technology. There are lots of very niche areas of technology/computing that are very worth looking at. In my opinion, we are inevitably heading towards a technology run world, and therefore there is no excuse to be computer illiterate.
+
+## Education
+**GCSE**:
+- English Literature: 5
+- English Language: 5
+- Mathematics: 8
+- Geography: 5
+- Business: 5
+- Art and Design: 2
+- Computer Science: 8
+- Combined Science: 7-7
+- Religious Studies: 4
+
+**A Level**:
+- Mathematics: A
+- Further Mathematics: Upcoming
+- Psychology: Upcoming
+- Computer Science: Upcoming
+
+**Miscellaneous**:
+- TMUA: Upcoming
+- UKMT Senior Challenge: Gold
