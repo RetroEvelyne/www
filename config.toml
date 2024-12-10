@@ -4,7 +4,6 @@ title = "RetroEvelyne's Space"
 theme = 'terminal'
 
 [params]
-    themeColor = "pink"
     fullWidthTheme = true
     centerTheme = true
 
@@ -12,38 +11,43 @@ theme = 'terminal'
   [languages.en]
     languageName = "English"
     title = "RetroEvelyne's Space"
-    subtitle = ""
-    owner = "RetroEvelyne"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-    minuteReadingTime = "min read"
-    words = "words"
 
-    [languages.en.params.logo]
-      logoText = "RetroEvelyne's Space"
-      logoHomeLink = "/"
+    [languages.en.params]
+      subtitle = ""
+      owner = "RetroEvelyne"
+      keywords = ""
+      copyright = ""
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "articles"
-        name = "Articles"
-        url = "/articles"
-      [[languages.en.menu.main]]
-        identifier = "news"
-	name = "News"
-	url = "/news"
-      [[languages.en.menu.main]]
-        identifier = "contact"
-	name = "Contact"
-	url = "/contact"
+      [languages.en.params.logo]
+        logoText = "RetroEvelyne's Space"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"
+        [[languages.en.menu.main]]
+          identifier = "articles"
+          name = "Articles"
+          url = "/articles"
+        [[languages.en.menu.main]]
+          identifier = "news"
+          name = "News"
+          url = "/news"
+        [[languages.en.menu.main]]
+          identifier = "contact"
+          name = "Contact"
+          url = "/contact"
+
+[server]
+watchDir = ["layouts/"]

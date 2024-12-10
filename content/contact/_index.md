@@ -4,9 +4,10 @@ title: "Contact Me"
 
 # Contact
 
-You can contact me at the things found below
+You can contact me through the options found below
 
-- **Email**: retroevelyne@protonmail.com
+
+- **Email**: retroevelyne@icloud.com
 
 Use this for anything site related
 
