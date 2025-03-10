@@ -4,14 +4,9 @@ title: "About"
 
 # About
 
-Hi, my name's Evelyne but I go as RetroEvelyne on the interwebs. I am a British student that currently studies Computer Science 
+I am a British student that currently studies Computer Science 
 at university.
 
-
-## Gender/Sexuality
-I identify as [genderfluid](https://en.wikipedia.org/wiki/Gender_fluidity), which for me basically just means that sometimes I feel more girly or boyish. My friends use they/she pronouns but I am really ok with any pronouns (and in certain situations prefer others).
-
-I also use the term [bisexual](https://en.wikipedia.org/wiki/Bisexuality) to describe my sexuality, but in reality its a bit of a copout because I can't be bothered to find a proper term. I feel like I could feel romantic and sexual attraction to any gender, how they identify has almost no effect on my feelings as other factors are way more important to me.
 
 ## Hobbies
 I enjoy many hobbies such as:

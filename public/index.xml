@@ -1,23 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on RetroEvelyne&#39;s Space</title>
+    <title>Home on Retro&#39;s Space</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on RetroEvelyne&#39;s Space</description>
+    <description>Recent content in Home on Retro&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 May 2023 14:24:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macbook Air</title>
+      <link>http://localhost:1313/articles/macbook-air/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/macbook-air/</guid>
+      <description>A previous post talked about my then recently purchased Thinkpad X200, and whilst I love that machine and still continue to use it, it definitely has its problems. For example the battery life was just not up to par with my lifestyle. Especially how it has transformed with University. The Thinkpad just isn&amp;rsquo;t able to keep up with a 7-8 hour day without needing multiple charges, which would be extremely limiting.</description>
+      <content>&lt;p&gt;A previous post talked about my then recently purchased Thinkpad X200, and
+whilst I love that machine and still continue to use it, it definitely has its
+problems. For example the battery life was just not up to par with my lifestyle.
+Especially how it has transformed with University. The Thinkpad just isn&amp;rsquo;t able
+to keep up with a 7-8 hour day without needing multiple charges, which would be
+extremely limiting.
+For this reason and others as well, I decided that I needed a new laptop. Now, my
+budget was very good, on the order of a couple thousand pounds, therefore I was not
+limited in my choice set. I had a few simple requirements that helped narrow down
+the options:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It can not run Windows or ChromeOS. I have not ran windows in some years now and
+I am not willing to start again here.&lt;/li&gt;
+&lt;li&gt;It had to have at least 8 hours of continual use in it without charging. It
+is not a good quality of mine that I often forget to charge my devices but I
+could make the choice to make my life easier with a better battery life.&lt;/li&gt;
+&lt;li&gt;It had to be powerful. One of the downsides to the Thinkpad is the speed, not
+being able to comfortably run a browser in a graphical environment would make
+University a much worse experience.&lt;/li&gt;
+&lt;li&gt;It must be cool. There&amp;rsquo;s no worse laptop for University in my opinion than a
+&amp;ldquo;gaming laptop&amp;rdquo;. The flashy RGB lights, the weird pointy shape and the absolute
+size of some of the laptops that I see just turn me off. Laptops, especially work
+laptops, are meant to be light and portable. Why would I carry a gaming pc cosplayed
+as a laptop around my University.&lt;/li&gt;
+&lt;li&gt;It must last long. I am not okay with the idea of replacing my laptop every year.
+The laptop must reasonably last until the end of University.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For these reasons, I only really faced two options, either a framework laptop loaded
+with Linux, or a Macbook. What made me decide was the power and the battery, due to
+linux on laptops not being all the way there yet, the power efficiency of the Macbook
+became one of the key selling points for me. Also the price to power of the
+Macbook made much more sense to me. After lots (and I mean lots) of mulling this
+decision over, I eventually decided to get a 13&amp;quot; M3 Macbook Air.&lt;/p&gt;
+&lt;p&gt;Unluckily for me, I got it just a few months before the 16Gb RAM base model upgrade,
+meaning that I paid extra to get 16Gb of RAM. Aside from that I got the 512Gb SSD
+storage, which has been more than plenty. Along with the 10 core GPU, I was set.
+Now I could have gotten the M2 for considerably cheaper, however due to this machine
+both needing to last a few years and being my main machine for any University programming,
+I decided to go for the M3.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>What The Fuck Is Wrong With The Internet</title>
+      <link>http://localhost:1313/articles/what-the-fuck-is-wrong-with-the-internet/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/what-the-fuck-is-wrong-with-the-internet/</guid>
+      <description>aaa
+Advertisements aaaa
+AI aaaa
+Shortform content </description>
+      <content>&lt;p&gt;aaa&lt;/p&gt;
+&lt;h1 id=&#34;advertisements&#34;&gt;Advertisements&lt;/h1&gt;
+&lt;p&gt;aaaa&lt;/p&gt;
+&lt;h1 id=&#34;ai&#34;&gt;AI&lt;/h1&gt;
+&lt;p&gt;aaaa&lt;/p&gt;
+&lt;h1 id=&#34;shortform-content&#34;&gt;Shortform content&lt;/h1&gt;
+</content>
+    </item>
+    
     <item>
       <title>Thinkpad X200</title>
       <link>http://localhost:1313/articles/thinkpad-x200/</link>
       <pubDate>Mon, 15 May 2023 12:59:57 +0100</pubDate>
       
       <guid>http://localhost:1313/articles/thinkpad-x200/</guid>
-      <description>My Lenovo Thinkpad X200 is, in my opinion at least, one of the best laptops out there. Unless you really need the extra oomph in performance, you shouldn&amp;rsquo;t pay sky high prices for these top of the line laptops out there. I got my Thinkpad off of ebay for £209.99, the base price was £179.99 but I shilled out an extra £30 for a RAM and an SSD upgrade (120Gb &amp;ndash;&amp;gt; 240Gb, 4Gb &amp;ndash;&amp;gt; 8Gb).</description>
+      <description>My Lenovo Thinkpad X200 is, in my opinion at least, one of the best laptops out there. Unless you really need the extra oomph in performance, you shouldn&amp;rsquo;t pay sky high prices for these top of the line laptops out there. I got my Thinkpad off of ebay for £209.99, the base price was £179.99 but I shilled out an extra £30 for a RAM and an SSD upgrade (4Gb &amp;ndash;&amp;gt; 8Gb, 128Gb &amp;ndash;&amp;gt; 256Gb).</description>
       <content>&lt;p&gt;My Lenovo Thinkpad X200 is, in my opinion at least, one of the best laptops out there. Unless you
 really need the extra oomph in performance, you shouldn&amp;rsquo;t pay sky high prices for these top of the
 line laptops out there. I got my Thinkpad off of ebay for £209.99, the base price was £179.99 but I
-shilled out an extra £30 for a RAM and an SSD upgrade (120Gb &amp;ndash;&amp;gt; 240Gb, 4Gb &amp;ndash;&amp;gt; 8Gb). Another thing
+shilled out an extra £30 for a RAM and an SSD upgrade (4Gb &amp;ndash;&amp;gt; 8Gb, 128Gb &amp;ndash;&amp;gt; 256Gb). Another thing
 I should mention is that it did come pre-librebooted.&lt;/p&gt;
 &lt;h1 id=&#34;the-battery&#34;&gt;The battery&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;ll just give it to you straight, the battery life on my Thinkpad X200 is shit. Even with minimal

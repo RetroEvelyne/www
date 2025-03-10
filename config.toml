@@ -1,6 +1,6 @@
 baseURL = 'http://retroevelyne.me/'
 languageCode = 'en-gb'
-title = "RetroEvelyne's Space"
+title = "Retro's Space"
 theme = 'terminal'
 
 [params]
@@ -10,11 +10,11 @@ theme = 'terminal'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "RetroEvelyne's Space"
+    title = "Retro's Space"
 
     [languages.en.params]
       subtitle = ""
-      owner = "RetroEvelyne"
+      owner = "Retro"
       keywords = ""
       copyright = ""
       menuMore = "Show more"
@@ -28,7 +28,7 @@ theme = 'terminal'
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "RetroEvelyne's Space"
+        logoText = "Retro's Space"
         logoHomeLink = "/"
 
       [languages.en.menu]
